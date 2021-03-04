@@ -1,0 +1,7 @@
+Django
+django-cors-headers
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+django-simple-history
+psycopg2
